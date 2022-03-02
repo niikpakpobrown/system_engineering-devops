@@ -1,0 +1,1 @@
+This chronicles my lessons to becoming a software engineer
