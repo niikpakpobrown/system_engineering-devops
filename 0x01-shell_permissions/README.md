@@ -1,0 +1,1 @@
+This contains various projects about shell permissions
