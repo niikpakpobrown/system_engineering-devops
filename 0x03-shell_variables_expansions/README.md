@@ -1,0 +1,1 @@
+This projects contains various tasks on shell variables and expansions
